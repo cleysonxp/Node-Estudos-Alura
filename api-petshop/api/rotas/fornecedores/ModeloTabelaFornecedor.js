@@ -1,5 +1,5 @@
 const Sequelize = require('sequelize');
-const instancia = require('../../bancoDeDados ')
+const instancia = require('../../bancoDeDados')
 
 const colunas = {
     empresa: {
